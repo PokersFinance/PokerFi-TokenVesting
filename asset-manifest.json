@@ -3,8 +3,8 @@
     "static/js/0.4f77a305.chunk.js": "./static/js/0.4f77a305.chunk.js",
     "static/js/0.4f77a305.chunk.js.map": "./static/js/0.4f77a305.chunk.js.map",
     "main.css": "./static/css/main.530bd69b.chunk.css",
-    "main.js": "./static/js/main.8c50431b.chunk.js",
-    "main.js.map": "./static/js/main.8c50431b.chunk.js.map",
+    "main.js": "./static/js/main.e168ab38.chunk.js",
+    "main.js.map": "./static/js/main.e168ab38.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.01414100.js",
     "runtime-main.js.map": "./static/js/runtime-main.01414100.js.map",
     "static/js/3.73756ce6.chunk.js": "./static/js/3.73756ce6.chunk.js",
@@ -32,7 +32,7 @@
     "static/js/9.0e0f4336.chunk.js.LICENSE.txt": "./static/js/9.0e0f4336.chunk.js.LICENSE.txt",
     "static/media/authorization.bbd308fd.png": "./static/media/authorization.bbd308fd.png",
     "static/media/background.92a62ba3.png": "./static/media/background.92a62ba3.png",
-    "static/media/getPenny.c533876f.png": "./static/media/getPenny.c533876f.png",
+    "static/media/getPenny.d9523b04.png": "./static/media/getPenny.d9523b04.png",
     "static/media/metaMask.3f181c79.png": "./static/media/metaMask.3f181c79.png",
     "static/media/money.c12375e0.png": "./static/media/money.c12375e0.png",
     "static/media/privateBox.9df35047.png": "./static/media/privateBox.9df35047.png",
@@ -48,6 +48,6 @@
     "static/js/runtime-main.01414100.js",
     "static/js/3.73756ce6.chunk.js",
     "static/css/main.530bd69b.chunk.css",
-    "static/js/main.8c50431b.chunk.js"
+    "static/js/main.e168ab38.chunk.js"
   ]
 }
